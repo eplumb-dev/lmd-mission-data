@@ -414,6 +414,1026 @@
    "key": "84333636",
    "uploadedBy": "eplumb-dev",
    "uploadedAt": "2026-10-01T15:31:25.373Z"
+  },
+  {
+   "tag": "s39d3f8c2-716d-4a69-89fe-a05ed43c1141",
+   "id": "84336340",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "32:55.3",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 3.2
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 8.4,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7.2,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 31.63,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 30.17,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 10.8,
+      "p": 0
+     }
+    ],
+    "navToVan": [
+     {
+      "v": 32,
+      "p": 0
+     }
+    ],
+    "alignExt": [
+     {
+      "v": 3.8,
+      "p": 0
+     }
+    ],
+    "mount": [
+     {
+      "v": 3.81,
+      "p": 0
+     }
+    ],
+    "alignInt2": [
+     {
+      "v": 8.98,
+      "p": 0
+     }
+    ],
+    "motorPowerOff": [
+     {
+      "v": 7.13,
+      "p": 0
+     }
+    ]
+   },
+   "key": "84336340",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s13cbdbe6-1797-4d3d-add4-cc6356272531",
+   "id": "84332488",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "02:07.2",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 0,
+      "p": 31.1
+     }
+    ]
+   },
+   "key": "84332488",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s01236c70-c23a-45ca-8485-d804ee0db724",
+   "id": "84333161",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "02:57.5",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 0,
+      "p": 9.9
+     }
+    ],
+    "localize": [
+     {
+      "v": 35.4,
+      "p": 4.5
+     }
+    ]
+   },
+   "key": "84333161",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s5f16b27a-7a10-4119-be2f-c8ea4ed6c367",
+   "id": "84331239",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "09:45.8",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 1.1,
+      "p": 8.6
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 0,
+      "p": 2.4
+     }
+    ]
+   },
+   "key": "84331239",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s4e303e89-dbcd-4e33-9caa-8c7b6b017d5b",
+   "id": "84335962",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "13:50.3",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 7.4
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 8.3,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7.5,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 17.09,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 25.91,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 10.9,
+      "p": 0
+     }
+    ],
+    "navToVan": [
+     {
+      "v": 25.63,
+      "p": 0
+     }
+    ],
+    "alignExt": [
+     {
+      "v": 3,
+      "p": 0
+     }
+    ],
+    "mount": [
+     {
+      "v": 3.67,
+      "p": 0
+     }
+    ],
+    "alignInt2": [
+     {
+      "v": 13.4,
+      "p": 0
+     }
+    ],
+    "motorPowerOff": [
+     {
+      "v": 7.2,
+      "p": 0
+     }
+    ]
+   },
+   "key": "84335962",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s33b98254-aec3-45ee-8103-e92594cee320",
+   "id": "84335222",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "19:01.6",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.7,
+      "p": 0.99
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 9.2,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7.2,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 18.95,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 26.05,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 10.8,
+      "p": 0
+     }
+    ],
+    "navToVan": [
+     {
+      "v": 23.4,
+      "p": 0
+     }
+    ],
+    "alignExt": [
+     {
+      "v": 9.4,
+      "p": 0
+     }
+    ],
+    "mount": [
+     {
+      "v": 1.71,
+      "p": 0
+     }
+    ]
+   },
+   "key": "84335222",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "sc822efd1-0513-499d-894c-eb68c79ffaa6",
+   "id": "84335153",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "22:10.2",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 2.54
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 8,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 22.67,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 25.93,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 10.9,
+      "p": 0
+     }
+    ],
+    "navToVan": [
+     {
+      "v": 21.8,
+      "p": 0
+     }
+    ],
+    "alignExt": [
+     {
+      "v": 5.31,
+      "p": 0
+     }
+    ],
+    "mount": [
+     {
+      "v": 2.09,
+      "p": 0
+     }
+    ]
+   },
+   "key": "84335153",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "sec674ee0-a21c-4df7-b2ac-c7315d95a5ec",
+   "id": "84336134",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "27:32.7",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 16.19
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 8.6,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 24.21,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 30.09,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 10.9,
+      "p": 0
+     }
+    ],
+    "navToVan": [
+     {
+      "v": 29.12,
+      "p": 0
+     }
+    ],
+    "alignExt": [
+     {
+      "v": 5.61,
+      "p": 0
+     }
+    ],
+    "mount": [
+     {
+      "v": 1.77,
+      "p": 0
+     }
+    ]
+   },
+   "key": "84336134",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s66f48714-bf13-420f-b962-76751842423c",
+   "id": "84335956",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "37:47.5",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 1.2
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 8.6,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7.6,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 25.96,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 33.44,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 11.9,
+      "p": 0
+     }
+    ],
+    "navToVan": [
+     {
+      "v": 38.5,
+      "p": 0
+     }
+    ],
+    "alignExt": [
+     {
+      "v": 12.6,
+      "p": 0
+     }
+    ]
+   },
+   "key": "84335956",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s3ae65a97-9b0a-4b7d-8a88-c5420221b556",
+   "id": "84333324",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "43:33.6",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 0,
+      "p": 9.71
+     }
+    ],
+    "localize": [
+     {
+      "v": 24.34,
+      "p": 0.9
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 0,
+      "p": 17.56
+     }
+    ],
+    "navToVan": [
+     {
+      "v": 0.8,
+      "p": 1.4
+     }
+    ]
+   },
+   "key": "84333324",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "sa74c9ef4-27fa-4dbf-9d4d-085057199598",
+   "id": "84335745",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "47:22.4",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 0,
+      "p": 180.4
+     }
+    ]
+   },
+   "key": "84335745",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s144f8673-3417-49f1-9f81-ab595b9d6071",
+   "id": "84346693",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "53:15.6",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 1.57
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 14.1,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7.5,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 49.6,
+      "p": 0
+     }
+    ]
+   },
+   "key": "84346693",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s777b91f3-cf26-4b99-9c8e-7f0a4ad3d65b",
+   "id": "84335264",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "54:40.5",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 0,
+      "p": 9.5
+     }
+    ],
+    "localize": [
+     {
+      "v": 16.16,
+      "p": 2.8
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 24.7,
+      "p": 6.94
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 10.9,
+      "p": 0
+     }
+    ],
+    "navToVan": [
+     {
+      "v": 32.6,
+      "p": 0
+     }
+    ]
+   },
+   "key": "84335264",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s67c56e46-8418-461b-8cff-cefea47eec25",
+   "id": "84334847",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "57:27.1",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 0.44
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 8.3,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7.3,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 22.53,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 29.37,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 10.9,
+      "p": 0
+     }
+    ],
+    "navToVan": [
+     {
+      "v": 15,
+      "p": 0
+     }
+    ]
+   },
+   "key": "84334847",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s9856e14f-4b80-4b58-a9bf-c78b803f9d6f",
+   "id": "84334632",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "23:00.3",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 1.1,
+      "p": 1.8
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 4.4,
+      "p": 4.4
+     }
+    ],
+    "localize": [
+     {
+      "v": 0.86,
+      "p": 1
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 21.9,
+      "p": 1.34
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 10.8,
+      "p": 0
+     }
+    ],
+    "navToVan": [
+     {
+      "v": 23.2,
+      "p": 0
+     }
+    ],
+    "alignExt": [
+     {
+      "v": 10.1,
+      "p": 0
+     }
+    ]
+   },
+   "key": "84334632",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s105c4159-aea6-4a5c-8122-ad82a4ae9385",
+   "id": "84336106",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "26:14.9",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.7,
+      "p": 2.9
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 7.7,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7.3,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 0.9,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 40.7,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 11.8,
+      "p": 0
+     }
+    ],
+    "navToVan": [
+     {
+      "v": 43.33,
+      "p": 0
+     }
+    ],
+    "alignExt": [
+     {
+      "v": 3.01,
+      "p": 0
+     }
+    ],
+    "mount": [
+     {
+      "v": 3.67,
+      "p": 0
+     }
+    ]
+   },
+   "key": "84336106",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s135f583f-4226-4b2d-baf3-3f50e3fe429e",
+   "id": "84333329",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "38:53.3",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 7.23
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 9.4,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 6.9,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 30.7,
+      "p": 0
+     }
+    ]
+   },
+   "key": "84333329",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s1be54266-d70c-49d2-a09c-9abb02f9a3c6",
+   "id": "84334246",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "40:41.4",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 5.1
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 6.6,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7.1,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 30.8,
+      "p": 0
+     }
+    ]
+   },
+   "key": "84334246",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "sf537ccff-cf99-44d2-a89b-8e2f932fec2f",
+   "id": "84332311",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "42:03.2",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 1.1,
+      "p": 4.7
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 0,
+      "p": 23.3
+     }
+    ]
+   },
+   "key": "84332311",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s9bfcf873-7294-43cb-8294-e54395134d82",
+   "id": "84332873",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "42:41.5",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 1.1,
+      "p": 5.9
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 0,
+      "p": 31.9
+     }
+    ]
+   },
+   "key": "84332873",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s3089fa79-4d27-4c7a-a55b-3ea58745e8d8",
+   "id": "84332939",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "43:32.2",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 1.1,
+      "p": 7.06
+     }
+    ]
+   },
+   "key": "84332939",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s4f6e7805-9d65-445a-a67b-979c6ae292f4",
+   "id": "84334284",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "46:12.0",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 0,
+      "p": 50.76
+     }
+    ]
+   },
+   "key": "84334284",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
+  },
+  {
+   "tag": "s2f6c6284-c0ae-41c1-9a26-cc7d4d055f8c",
+   "id": "84335378",
+   "route": "9-29 Internal Trial Logs.csv",
+   "file": "9-29 Internal Trial Logs.csv",
+   "time": "46:33.1",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 1.48
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 8.7,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7.1,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 19.65,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 9.95,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 10.9,
+      "p": 0
+     }
+    ],
+    "navToVan": [
+     {
+      "v": 12.9,
+      "p": 0
+     }
+    ],
+    "alignExt": [
+     {
+      "v": 3.92,
+      "p": 0
+     }
+    ],
+    "mount": [
+     {
+      "v": 3.88,
+      "p": 0
+     }
+    ],
+    "alignInt2": [
+     {
+      "v": 14.51,
+      "p": 0
+     }
+    ],
+    "motorPowerOff": [
+     {
+      "v": 7.2,
+      "p": 0
+     }
+    ]
+   },
+   "key": "84335378",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z"
   }
  ],
  "route": [],
@@ -438,6 +1458,17 @@
    "values": 128,
    "uploadedBy": "eplumb-dev",
    "uploadedAt": "2026-10-01T15:31:25.373Z",
+   "unmatched": {}
+  },
+  {
+   "name": "9-29 Internal Trial Logs.csv",
+   "rows": 128,
+   "format": "log",
+   "routes": 1,
+   "stops": 23,
+   "values": 128,
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:33:36.678Z",
    "unmatched": {}
   }
  ]
