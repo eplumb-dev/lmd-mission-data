@@ -1232,30 +1232,6 @@
    "uploadedAt": "2026-10-01T15:44:31.990Z"
   },
   {
-   "tag": "sc50219d4-894b-4c90-9f13-df29379504e6",
-   "id": "84332311",
-   "route": "9-29 Internal Trial Logs.csv",
-   "file": "9-29 Internal Trial Logs.csv",
-   "time": "9/29/2026 12:42",
-   "steps": {
-    "motorPowerOn": [
-     {
-      "v": 1.1,
-      "p": 4.7
-     }
-    ],
-    "alignInt1": [
-     {
-      "v": 0,
-      "p": 23.3
-     }
-    ]
-   },
-   "key": "84332311",
-   "uploadedBy": "eplumb-dev",
-   "uploadedAt": "2026-10-01T15:44:31.990Z"
-  },
-  {
    "tag": "s6803b1e3-8e31-4938-be1d-46594c0d2c39",
    "id": "84335378",
    "route": "9-29 Internal Trial Logs.csv",
