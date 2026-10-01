@@ -816,42 +816,6 @@
    "key": "84335956",
    "uploadedBy": "eplumb-dev",
    "uploadedAt": "2026-10-01T15:31:25.373Z"
-  },
-  {
-   "tag": "s7b2e16dc-526c-4d33-903d-8339b2a5c696",
-   "id": "84333324",
-   "route": "9-29 Internal Trial Logs.csv",
-   "file": "9-29 Internal Trial Logs.csv",
-   "time": "43:33.6",
-   "steps": {
-    "motorPowerOn": [
-     {
-      "v": 0,
-      "p": 9.71
-     }
-    ],
-    "localize": [
-     {
-      "v": 24.34,
-      "p": 0.9
-     }
-    ],
-    "navToZone": [
-     {
-      "v": 0,
-      "p": 17.56
-     }
-    ],
-    "navToVan": [
-     {
-      "v": 0.8,
-      "p": 1.4
-     }
-    ]
-   },
-   "key": "84333324",
-   "uploadedBy": "eplumb-dev",
-   "uploadedAt": "2026-10-01T15:31:25.373Z"
   }
  ],
  "route": [],
