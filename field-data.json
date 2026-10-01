@@ -1,1 +1,397 @@
-{"version":1,"stops":[],"route":[],"files":[]}
+{
+ "version": 1,
+ "stops": [
+  {
+   "tag": "se3e9dd3d-4769-49b7-adf9-17269838128a",
+   "id": "82340099",
+   "route": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "file": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "time": "2026-09-17 10:47:24.683",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 9.52
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 11.8,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 9.2,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 37.96,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 26.34,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 12.1,
+      "p": 0
+     }
+    ]
+   },
+   "key": "82340099",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:09:21.310Z"
+  },
+  {
+   "tag": "sa81d98cb-30fc-4948-82a9-749cbb6ab5b6",
+   "id": "82340261",
+   "route": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "file": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "time": "2026-09-17 11:25:16.465",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.5,
+      "p": 3.3
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 12.7,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 6.9,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 26.71,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 32.09,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 11.8,
+      "p": 0
+     }
+    ],
+    "navToVan": [
+     {
+      "v": 29.4,
+      "p": 0
+     }
+    ],
+    "alignExt": [
+     {
+      "v": 2.53,
+      "p": 0
+     }
+    ],
+    "mount": [
+     {
+      "v": 3.67,
+      "p": 0
+     }
+    ]
+   },
+   "key": "82340261",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:09:21.310Z"
+  },
+  {
+   "tag": "sb260db7c-855d-45d1-9b3b-bdbda7ca3293",
+   "id": "82340991",
+   "route": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "file": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "time": "2026-09-17 12:19:39.963",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 3.03
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 20.2,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7.7,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 27.04,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 31.16,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 10.8,
+      "p": 0
+     }
+    ],
+    "navToVan": [
+     {
+      "v": 35.33,
+      "p": 0
+     }
+    ],
+    "alignExt": [
+     {
+      "v": 8.67,
+      "p": 0
+     }
+    ],
+    "mount": [
+     {
+      "v": 3.61,
+      "p": 0
+     }
+    ],
+    "alignInt2": [
+     {
+      "v": 11.33,
+      "p": 0
+     }
+    ],
+    "motorPowerOff": [
+     {
+      "v": 7.18,
+      "p": 0
+     }
+    ]
+   },
+   "key": "82340991",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:09:21.310Z"
+  },
+  {
+   "tag": "s748a46d9-3ce7-4522-a3db-6d80454720b0",
+   "id": "82339783",
+   "route": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "file": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "time": "2026-09-17 14:21:41.984",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.7,
+      "p": 3.4
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 10.6,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7.4,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 20.68,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 23.72,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 11.9,
+      "p": 0
+     }
+    ]
+   },
+   "key": "82339783",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:09:21.310Z"
+  },
+  {
+   "tag": "s18cb7cbf-72b5-48e3-85a8-fdd2bf11ec78",
+   "id": "82339642",
+   "route": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "file": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "time": "2026-09-17 14:38:36.084",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 2.18
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 12.2,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7.3,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 19.58,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 9.32,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 10.8,
+      "p": 0
+     }
+    ]
+   },
+   "key": "82339642",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:09:21.310Z"
+  },
+  {
+   "tag": "s359c5a70-abd2-45af-8c39-14e892bcfe25",
+   "id": "82340352",
+   "route": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "file": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "time": "2026-09-17 15:10:05.984",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 7.57
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 11.6,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7.9,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 28.39,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 37.01,
+      "p": 0
+     }
+    ],
+    "depositTotal": [
+     {
+      "v": 10.8,
+      "p": 0
+     }
+    ]
+   },
+   "key": "82340352",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:09:21.310Z"
+  },
+  {
+   "tag": "se81f9f2a-94cc-4d6c-b6d4-0711ab56209f",
+   "id": "82339474",
+   "route": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "file": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "time": "2026-09-17 15:37:50.884",
+   "steps": {
+    "motorPowerOn": [
+     {
+      "v": 2.6,
+      "p": 4.7
+     }
+    ],
+    "alignInt1": [
+     {
+      "v": 10.6,
+      "p": 0
+     }
+    ],
+    "dismount": [
+     {
+      "v": 7.9,
+      "p": 0
+     }
+    ],
+    "localize": [
+     {
+      "v": 24.9,
+      "p": 0
+     }
+    ],
+    "navToZone": [
+     {
+      "v": 9,
+      "p": 0
+     }
+    ]
+   },
+   "key": "82339474",
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:09:21.310Z"
+  }
+ ],
+ "route": [],
+ "files": [
+  {
+   "name": "82340099_82340261_82340991_82339783_82339642_82340352_82339474-blue.perception.TextLogProto.csv",
+   "rows": 49,
+   "format": "log",
+   "routes": 1,
+   "stops": 7,
+   "values": 49,
+   "uploadedBy": "eplumb-dev",
+   "uploadedAt": "2026-10-01T15:09:21.310Z",
+   "unmatched": {}
+  }
+ ]
+}
