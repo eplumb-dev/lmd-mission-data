@@ -456,30 +456,6 @@
    "key": "84333161",
    "uploadedBy": "eplumb-dev",
    "uploadedAt": "2026-10-01T15:31:25.373Z"
-  },
-  {
-   "tag": "sfb64f267-39f8-426a-8ceb-13c35dc27908",
-   "id": "84331239",
-   "route": "9-29 Internal Trial Logs.csv",
-   "file": "9-29 Internal Trial Logs.csv",
-   "time": "09:45.8",
-   "steps": {
-    "motorPowerOn": [
-     {
-      "v": 1.1,
-      "p": 8.6
-     }
-    ],
-    "alignInt1": [
-     {
-      "v": 0,
-      "p": 2.4
-     }
-    ]
-   },
-   "key": "84331239",
-   "uploadedBy": "eplumb-dev",
-   "uploadedAt": "2026-10-01T15:31:25.373Z"
   }
  ],
  "route": [],
