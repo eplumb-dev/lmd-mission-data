@@ -834,66 +834,6 @@
    "key": "84336134",
    "uploadedBy": "eplumb-dev",
    "uploadedAt": "2026-10-01T15:33:36.678Z"
-  },
-  {
-   "tag": "s66f48714-bf13-420f-b962-76751842423c",
-   "id": "84335956",
-   "route": "9-29 Internal Trial Logs.csv",
-   "file": "9-29 Internal Trial Logs.csv",
-   "time": "37:47.5",
-   "steps": {
-    "motorPowerOn": [
-     {
-      "v": 2.6,
-      "p": 1.2
-     }
-    ],
-    "alignInt1": [
-     {
-      "v": 8.6,
-      "p": 0
-     }
-    ],
-    "dismount": [
-     {
-      "v": 7.6,
-      "p": 0
-     }
-    ],
-    "localize": [
-     {
-      "v": 25.96,
-      "p": 0
-     }
-    ],
-    "navToZone": [
-     {
-      "v": 33.44,
-      "p": 0
-     }
-    ],
-    "depositTotal": [
-     {
-      "v": 11.9,
-      "p": 0
-     }
-    ],
-    "navToVan": [
-     {
-      "v": 38.5,
-      "p": 0
-     }
-    ],
-    "alignExt": [
-     {
-      "v": 12.6,
-      "p": 0
-     }
-    ]
-   },
-   "key": "84335956",
-   "uploadedBy": "eplumb-dev",
-   "uploadedAt": "2026-10-01T15:33:36.678Z"
   }
  ],
  "route": [],
